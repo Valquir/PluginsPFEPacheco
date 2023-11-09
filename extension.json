@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "PFE-Pacheco",
+    "description": "Plug-in d'automatisation de ferraillage des PM sur Revit",
+    "author": "Valquir Pacheco",
+    "author_profile": "https:/github.com/Valquir/",
+    "url": "https:/github.com/Valquir/PluginsPFEPacheco.git",
+    "website": "",
+    "image": "",
+    "dependencies": []
+}
